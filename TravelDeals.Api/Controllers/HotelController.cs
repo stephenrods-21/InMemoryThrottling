@@ -29,7 +29,7 @@ namespace TravelDeals.Api.Controllers
         {
             if (_requestThrottler.IsThrottled(request.ApiKey))
             {
-                return Request.CreateResponse((HttpStatusCode)429, "Too many requests");
+                return Request.CreateResponse((HttpStatusCode)429, "Too many requests.");
             }
 
             var result = await _hotelService.FetchAllHotels(request);
