@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="hoteldbModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <!--Errors Found During Generation:
+warning 6002: The table/view 'hoteldb.dbo.Hotels' does not have a primary key defined. The key has been inferred and the definition was created as a read-only table/view.-->
+  <EntityType Name="Hotels">
+    <Key>
+      <PropertyRef Name="CITY" />
+      <PropertyRef Name="HOTELID" />
+      <PropertyRef Name="ROOM" />
+      <PropertyRef Name="PRICE" />
+    </Key>
+    <Property Name="CITY" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="HOTELID" Type="int" Nullable="false" />
+    <Property Name="ROOM" Type="nvarchar" MaxLength="50" Nullable="false" />
+    <Property Name="PRICE" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="hoteldbModelStoreContainer">
+    <EntitySet Name="Hotels" EntityType="Self.Hotels" store:Type="Tables" store:Schema="dbo">
+      <DefiningQuery>SELECT 
+    [Hotels].[CITY] AS [CITY], 
+    [Hotels].[HOTELID] AS [HOTELID], 
+    [Hotels].[ROOM] AS [ROOM], 
+    [Hotels].[PRICE] AS [PRICE]
+    FROM [dbo].[Hotels] AS [Hotels]</DefiningQuery>
+    </EntitySet>
+  </EntityContainer>
+</Schema>

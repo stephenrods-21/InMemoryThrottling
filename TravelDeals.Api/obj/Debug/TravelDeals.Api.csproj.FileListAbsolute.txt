@@ -1,0 +1,192 @@
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\NLog.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\ApplicationInsights.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Api.dll.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Api.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Api.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\csc.exe
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\csc.exe.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\csc.rsp
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\csi.exe
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\csi.rsp
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\System.AppContext.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\vbc.exe
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\vbc.exe.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\vbc.rsp
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\VBCSCompiler.exe
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Antlr3.Runtime.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\EntityFramework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\EntityFramework.SqlServer.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.Web.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Newtonsoft.Json.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\SimpleInjector.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\SimpleInjector.Integration.WebApi.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Net.Http.Formatting.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Helpers.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Http.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Http.WebHost.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Mvc.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Optimization.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Razor.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Razor.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Data.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Framework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Service.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\WebGrease.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\LinqKit.EntityFramework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\NLog.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Data.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Data.dll.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Framework.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Service.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\TravelDeals.Service.dll.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\EntityFramework.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\EntityFramework.SqlServer.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\SimpleInjector.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\SimpleInjector.Integration.WebApi.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Newtonsoft.Json.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Net.Http.Formatting.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Helpers.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Http.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Http.WebHost.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Mvc.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Optimization.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.Razor.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Razor.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Antlr3.Runtime.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.Web.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\LinqKit.EntityFramework.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\bin\NLog.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.csprojResolveAssemblyReference.cache
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.csproj.CoreCompileInputs.cache
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.csproj.CopyComplete
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\NLog.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\ApplicationInsights.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Api.dll.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Api.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Api.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\csc.exe
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\csc.exe.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\csc.rsp
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\csi.exe
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\csi.rsp
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\System.AppContext.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\System.Collections.Immutable.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\System.IO.FileSystem.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\System.Reflection.Metadata.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\vbc.exe
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\vbc.exe.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\vbc.rsp
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\VBCSCompiler.exe
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\roslyn\VBCSCompiler.exe.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Antlr3.Runtime.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\EntityFramework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\EntityFramework.SqlServer.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.DependencyCollector.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.Web.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.WindowsServer.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.ApplicationInsights.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.Web.Infrastructure.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Newtonsoft.Json.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\SimpleInjector.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\SimpleInjector.Integration.WebApi.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Net.Http.Formatting.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Helpers.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Http.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Http.WebHost.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Mvc.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Optimization.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Razor.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Deployment.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Razor.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Data.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Framework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Service.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\WebGrease.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\LinqKit.EntityFramework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\NLog.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Data.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Data.dll.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Framework.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Service.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\TravelDeals.Service.dll.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\EntityFramework.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\EntityFramework.SqlServer.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\SimpleInjector.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\SimpleInjector.Integration.WebApi.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Newtonsoft.Json.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Net.Http.Formatting.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Helpers.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Http.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Http.WebHost.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Mvc.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Optimization.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.Razor.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Deployment.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\System.Web.WebPages.Razor.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Antlr3.Runtime.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.ApplicationInsights.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.DependencyCollector.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.WindowsServer.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\Microsoft.AI.Web.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\LinqKit.EntityFramework.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\bin\NLog.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.csprojResolveAssemblyReference.cache
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.csproj.CoreCompileInputs.cache
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.csproj.CopyComplete
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Api\obj\Debug\TravelDeals.Api.pdb

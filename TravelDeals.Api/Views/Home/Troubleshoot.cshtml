@@ -1,0 +1,37 @@
+﻿
+<div class="container-fluid">
+    <h2>If you are seeing this page. Please go through the following.</h2>
+    <hr />
+
+    <div class="row">
+        <div class="col-12">
+            <ul class="list-unstyled">
+                <li>
+                    <ul>
+                        <li>Technology used are WebApi 2.0 with EntityFramework(Database First Approach) and for client side scripting Angularjs.</li>
+                    </ul>
+                </li>
+                <li>Please check if the <b class="bg-yellow">connection string in web.config is correct.</b> <b>Data source and database name</b></li>
+                <li>
+                    <pre> 
+   connectionString="metadata=res://*/DbProvider.DbContext.csdl|res://*/DbProvider.DbContext.ssdl|res://*/DbProvider.DbContext.msl;provider=System.Data.SqlClient;
+   provider connection string=&quot;<b class="bg-yellow">data source=(localdb)\MSSQLLocalDB;initial catalog=hoteldb;</b>
+   integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;"
+   providerName="System.Data.EntityClient"
+                 </pre>
+                </li>
+                <li>Table in the database is created with the following script. Provided along with the project, File path: "Scripts/hotels.sql"</li>
+                <li>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<style type="text/css">
+    .bg-yellow {
+        background-color: yellow;
+    }
+</style>
+
+

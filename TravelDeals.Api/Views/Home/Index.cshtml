@@ -1,0 +1,81 @@
+﻿
+<body>
+    <!-- Navigation -->
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
+        <div class="container">
+            <a class="navbar-brand" href="#" style="color:springgreen;">HotelDeals.com</a>
+            @Html.ActionLink("API", "Index", "Help", new { area = "" }, null)
+        </div>
+    </nav>
+    <!-- Page Content -->
+    <div class="container" data-ng-controller="HotelController">
+        <div class="row">
+            <!--Side Menu Filter-->
+            <!-- Sidebar Widgets Column -->
+            <div class="col-md-3">
+                <!-- Search Widget -->
+                <div class="card my-4">
+                    <form data-ng-submit="searchByCity();">
+                        <h5 class="card-header">Search By City</h5>
+                        <div class="card-body">
+                            <div class="input-group">
+                                <input data-ng-model="searchTerm" type="text" class="form-control" required placeholder="">
+                                <span class="input-group-btn">
+                                    <button class="btn btn-secondary" type="button" data-ng-click="searchByCity()">Go!</button>
+                                </span>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Blog Entries Column -->
+            <div class="col-md-9">
+                <h6 class="my-1">
+                    &nbsp;
+                </h6>
+
+                <div class="row" style="margin-bottom:10px;">
+                    <div class="col-md-6">
+                        <h5 data-ng-hide="hotels.length == 0" class="m-box">Showing {{hotelCount}} Hotels!</h5>
+                    </div>
+                    <div class="col-md-6">
+                        <div class="wrap-select pull-right">
+                            <div id="dd" class="wrapper-dropdown-3">
+                                <span>Price High to Low</span>
+                                <ul class="dropdown">
+                                    <li><a ng-click="applySort(1);" href="#">Price Low to High</a></li>
+                                    <li><a ng-click="applySort(2);" href="#">Price High to Low</a></li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Hotel Room -->
+                <div class="card mb-4" ng-repeat="hotel in hotels">
+                    <div class="card-body" style=" box-shadow: 0 0 10px #d9d9d9;">
+                        <h5 class="card-title" ng-bind="hotel.ROOM">Post Title</h5>
+                        <p class="widgets"><span class="fa fa-map-marker"> {{hotel.CITY}}</span> <i class="fa fa-usd"></i>{{hotel.PRICE}}</p>
+                    </div>
+                </div>
+
+                <!-- No Hotel found -->
+                <div class="card mb-4" data-ng-if="hotels.length == 0">
+                    <div class="card-body" style=" box-shadow: 0 0 10px #d9d9d9;">
+                        <h4 class="card-title text-center">Sorry! No Hotels found.</h4>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- /.row -->
+    <!-- /.container -->
+    <!-- Bootstrap core JavaScript -->
+    <script src="~/vendor/jquery/jquery.min.js"></script>
+    <script src="~/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="~/Scripts/angular.js"></script>
+    <script src="~/Scripts/angular-toastr.tpls.min.js" type="text/javascript"></script>
+    <script src="~/Scripts/select.js"></script>
+    <script src="~/Scripts/app.js"></script>
+</body>

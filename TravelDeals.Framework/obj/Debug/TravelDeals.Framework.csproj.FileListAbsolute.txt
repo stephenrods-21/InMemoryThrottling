@@ -1,0 +1,34 @@
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.csprojResolveAssemblyReference.cache
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\NLog.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Framework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Framework.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\NLog.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Data.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\EntityFramework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\LinqKit.EntityFramework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Data.pdb
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Data.dll.config
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\NLog.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\EntityFramework.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\bin\Debug\LinqKit.EntityFramework.xml
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.csproj.CopyComplete
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.dll
+C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\NLog.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Framework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Framework.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\NLog.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Data.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\EntityFramework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\LinqKit.EntityFramework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Data.pdb
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\TravelDeals.Data.dll.config
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\NLog.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\EntityFramework.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\bin\Debug\LinqKit.EntityFramework.xml
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.csprojResolveAssemblyReference.cache
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.csproj.CoreCompileInputs.cache
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.csproj.CopyComplete
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.dll
+C:\Z\Stephen_Rodrigues_Test(Agoda)\Agoda Test\TravelDeals.Framework\obj\Debug\TravelDeals.Framework.pdb
