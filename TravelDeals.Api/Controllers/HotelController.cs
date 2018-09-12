@@ -14,20 +14,17 @@ namespace TravelDeals.Api.Controllers
     public class HotelController : ApiController
     {
         private readonly IHotelService _hotelService;
-        private readonly RequestThrottler _requestThrottler;
 
-        public HotelController(IHotelService hotelService,
-            RequestThrottler requestThrottler)
+        public HotelController(IHotelService hotelService)
         {
             _hotelService = hotelService;
-            _requestThrottler = requestThrottler;
         }
 
         [ValidateModelFilter]
         [HttpPost, Route("list")]
         public async Task<HttpResponseMessage> FetchAllHotelAsync(DataSourceRequests request)
         {
-            if (_requestThrottler.IsThrottled(request.ApiKey))
+            if (RequestThrottler.IsThrottled(request.ApiKey))
             {
                 return Request.CreateResponse((HttpStatusCode)429, "Too many requests.");
             }

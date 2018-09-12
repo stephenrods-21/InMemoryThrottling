@@ -1,33 +1,47 @@
 ﻿using System;
-using System.Runtime.Caching;
+using System.Collections.Concurrent;
 using TravelDeals.Framework.Helpers;
 using TravelDeals.Framework.Models;
-using TravelDeals.Framework.Utility;
 
 namespace TravelDeals.Framework.Utils
 {
-    public class RequestThrottler
+    public static class RequestThrottler
     {
-        public bool IsThrottled(string key)
+        public static ConcurrentDictionary<string, ThrottleInfo> _cache = new ConcurrentDictionary<string, ThrottleInfo>();
+
+        public static bool IsThrottled(string key)
         {
             //Gets the rate limit by AppId from configuration file.
             int _rateLimit = Config.GetRateLimitByAppId(key);
 
             //Check to see if request for this appId is blocked for 5 minutes.
-            ThrottleInfo throttleInfo = Caching.GetObjectFromCache<ThrottleInfo>($"{key}-BLOCKED");
-            if (throttleInfo != null)
+            _cache.TryGetValue($"{key}-BLOCKED", out ThrottleInfo throttled);
+            if (throttled != null && throttled.Expiry > DateTime.Now)
                 return true;
+            else
+                _cache.TryRemove($"{key}-BLOCKED", out ThrottleInfo _);
 
             //Gets value from cache by appId, If does not exist then add in cache.
-            throttleInfo = Caching.GetObjectFromCache<ThrottleInfo>(key);
+            _cache.TryGetValue(key, out ThrottleInfo throttleInfo);
+
+
+            if (throttleInfo != null && throttleInfo.Expiry <= DateTime.Now)
+            {
+                throttleInfo = new ThrottleInfo();
+                throttleInfo.Expiry = DateTime.Now.AddSeconds(Config.DefaultExpiryTime);
+
+                _cache.AddOrUpdate(key, throttleInfo, (oldVal, newVal) => throttleInfo);
+            }
+
             if (throttleInfo == null)
             {
                 throttleInfo = new ThrottleInfo
                 {
-                    RequestCount = 1
+                    RequestCount = 1,
+                    Expiry = DateTime.Now.AddSeconds(Config.DefaultExpiryTime)
                 };
 
-                Caching.AddInCache(key, throttleInfo);
+                _cache.AddOrUpdate(key, throttleInfo, (oldVal, newVal) => throttleInfo);
             }
             else
             {
@@ -39,12 +53,8 @@ namespace TravelDeals.Framework.Utils
                 //This means all request for "{appId}" will be temporarily blocked for 5 minutes.
                 if (throttleInfo.RequestCount > _rateLimit)
                 {
-                    Caching.AddInCache($"{key}-BLOCKED", new ThrottleInfo
-                    { RequestCount = throttleInfo.RequestCount },
-                    new CacheItemPolicy
-                    {
-                        AbsoluteExpiration = DateTimeOffset.Now.AddMinutes(Config.PenaltyInMinutes) //penalty 5 minutes
-                    });
+                    throttleInfo.Expiry = DateTime.Now.AddMinutes(Config.PenaltyInMinutes); //Penalty 5 minutes.
+                    _cache.TryAdd($"{key}-BLOCKED", throttleInfo);
                 }
             }
             return throttleInfo.RequestCount > _rateLimit;

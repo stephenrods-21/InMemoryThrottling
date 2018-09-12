@@ -9,5 +9,7 @@ namespace TravelDeals.Framework.Models
     public class ThrottleInfo
     {
         public int RequestCount { get; set; }
+
+        public DateTime Expiry { get; set; }
     }
 }

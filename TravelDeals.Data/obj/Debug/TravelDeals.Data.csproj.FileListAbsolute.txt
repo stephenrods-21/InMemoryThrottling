@@ -12,3 +12,19 @@ C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.D
 C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Data\obj\Debug\TravelDeals.Data.csproj.CopyComplete
 C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Data\obj\Debug\TravelDeals.Data.dll
 C:\Users\Chilindo User\Downloads\Stephen_Rodrigues_Test\Agoda Test\TravelDeals.Data\obj\Debug\TravelDeals.Data.pdb
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\TravelDeals.Data.dll.config
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\TravelDeals.Data.dll
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\TravelDeals.Data.pdb
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\CsvHelper.dll
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\EntityFramework.dll
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\LinqKit.EntityFramework.dll
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\CsvHelper.xml
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\EntityFramework.xml
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\bin\Debug\LinqKit.EntityFramework.xml
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\obj\Debug\TravelDeals.Data.csprojResolveAssemblyReference.cache
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\obj\Debug\TravelDeals.Data.csproj.CoreCompileInputs.cache
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\obj\Debug\TravelDeals.Data.csproj.CopyComplete
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\obj\Debug\TravelDeals.Data.dll
+C:\Users\Chilindo User\Documents\HotelDeals\InMemoryThrottling\TravelDeals.Data\obj\Debug\TravelDeals.Data.pdb

@@ -54,7 +54,6 @@
     <Compile Include="Log\LoggerService.cs" />
     <Compile Include="Models\ThrottleInfo.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utility\Caching.cs" />
     <Compile Include="Utility\RequestThrottler.cs" />
     <Compile Include="ViewModels\DataSourceRequest.cs" />
     <Compile Include="ViewModels\HotelListVM.cs" />
