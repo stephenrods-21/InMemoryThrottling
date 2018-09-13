@@ -11,11 +11,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelDeals.Data", "TravelD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelDeals.Business", "TravelDeals.Service\TravelDeals.Business.csproj", "{4C04906B-33DC-4854-A746-AFDD475AD81B}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Database Scripts", "Database Scripts", "{72D6BEFA-56C2-4222-94E9-8FE213A18611}"
-	ProjectSection(SolutionItems) = preProject
-		Full_DB_Scripts.sql = Full_DB_Scripts.sql
-	EndProjectSection
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelDeals.Tests", "HotelDeals.Tests\HotelDeals.Tests.csproj", "{1C8E23F6-E2F9-4BCF-B70D-A538A926B5BE}"
 EndProject
 Global
