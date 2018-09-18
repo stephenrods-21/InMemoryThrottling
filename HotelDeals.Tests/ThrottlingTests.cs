@@ -180,5 +180,28 @@ namespace HotelDeals.Tests
             }
             Assert.IsTrue(isBlocked);
         }
+
+        [TestMethod]
+        public async Task TryGetAllHotelsInBangkokOnly()
+        {
+            int hotelInBangkokCount = 0;
+            HotelService _hotelService = new HotelService(new HotelRepository());
+            DataSourceRequests req = new DataSourceRequests
+            {
+                ApiKey = "TESTASC",
+                Search = "Bangkok",
+                Sort = "ASC"
+            };
+
+            var result = await _hotelService.FetchAllHotels(req);
+
+            for (int i = 0; i < result.Hotels.Count; i++)
+            {
+                if (result.Hotels[i].CITY.Equals("Bangkok"))
+                    hotelInBangkokCount++;
+            }
+
+            Assert.IsTrue(hotelInBangkokCount == result.TotalRecords);
+        }
     }
 }
