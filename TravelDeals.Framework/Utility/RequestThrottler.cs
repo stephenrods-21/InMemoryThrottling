@@ -7,6 +7,7 @@ namespace TravelDeals.Framework.Utils
 {
     public static class RequestThrottler
     {
+        //Added a timer in Global.asax which will run and remove all the expired keys from the dictionary.
         public static ConcurrentDictionary<string, ThrottleInfo> _cache = new ConcurrentDictionary<string, ThrottleInfo>();
 
         public static bool IsThrottled(string key)

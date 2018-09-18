@@ -61,7 +61,7 @@ namespace HotelDeals.Tests
         {
             //Default rate limit is 10 in config.
             apiKey = "XXZZZZZ";
-            int success = 0, failed = 0;
+            int success = 0;
 
             int rateLimit = Config.GetRateLimitByAppId(apiKey);
 
@@ -135,7 +135,7 @@ namespace HotelDeals.Tests
 
             for (int i = 0; i < result.Hotels.Count - 1; i++)
             {
-                if (result.Hotels[i].PRICE > result.Hotels[i + 1].PRICE)
+                if (result.Hotels[i].PRICE >= result.Hotels[i + 1].PRICE)
                     sorted = true;
             }
 
@@ -157,11 +157,28 @@ namespace HotelDeals.Tests
 
             for (int i = 0; i < result.Hotels.Count - 1; i++)
             {
-                if (result.Hotels[i].PRICE < result.Hotels[i + 1].PRICE)
+                if (result.Hotels[i].PRICE <= result.Hotels[i + 1].PRICE)
                     sorted = true;
             }
 
             Assert.IsTrue(sorted);
+        }
+
+        [TestMethod]
+        public void WhenRateLimitExceedsCheckIfKeyIsBlocked()
+        {
+            //key HD700 has default rate Limit 10
+            apiKey = "HD700";
+            bool isBlocked = false;
+            for (int i = 1; i <= 11; i++)
+            {
+                if (RequestThrottler.IsThrottled(apiKey))
+                {
+                    if (RequestThrottler._cache.ContainsKey($"{apiKey}-BLOCKED"))
+                        isBlocked = true;
+                }
+            }
+            Assert.IsTrue(isBlocked);
         }
     }
 }
